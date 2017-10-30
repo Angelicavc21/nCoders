@@ -1,0 +1,53 @@
+.container {
+  padding: 0em;
+  width: 550px;
+  position: absolute;
+  margin: 0em;
+}
+h1 {
+  font-family: sans-serif;
+}
+.bg-1coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+.bg-2coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+.bg-3coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+.bg-4coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+.bg-5coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+.bg-6coder {
+  margin: 1em;
+  width: 150px; height: 150px;
+  float: left;
+}
+
+.bg {
+float: left
+}
+
+p {
+  padding-left: 3.5em;
+  position: absolute;
+  padding-top: 11.5em;
+  font-style: oblique;
+  font-family: sans-serif;
+  color: white;
+  font-size: 0.7em;
+}
